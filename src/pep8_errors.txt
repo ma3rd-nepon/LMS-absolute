@@ -1,0 +1,2 @@
+testing_code.py:8:1: E265 block comment should start with '# '
+testing_code.py:8:12: W292 no newline at end of file
